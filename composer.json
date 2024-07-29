@@ -1,5 +1,5 @@
 {
-  "name": "rongcloud/php-sdk",
+  "name": "cornyk/rongcloud-php-sdk",
   "description": "Rong Cloud Server SDK in PHP.",
   "type": "library",
   "license": "MIT",
