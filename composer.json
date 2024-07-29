@@ -9,5 +9,9 @@
       "email": "corneliuskahn@outlook.com"
     }
   ],
-  "minimum-stability": "stable"
+  "autoload": {
+    "psr-4": {
+      "RongCloud\\": "RongCloud/"
+    }
+  }
 }
