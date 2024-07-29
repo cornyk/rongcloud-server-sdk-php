@@ -13,7 +13,7 @@ use RongCloud\Lib\Sensitive\Sensitive;
 use RongCloud\Lib\User\User;
 use RongCloud\Lib\Push\Push;
 
-error_reporting(0);
+//error_reporting(0);
 if (!defined('RONGCLOUOD_ROOT')) {
     define('RONGCLOUOD_ROOT', dirname(__FILE__) . '/');
     require('Autoloader.php');

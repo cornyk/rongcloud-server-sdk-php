@@ -1,0 +1,13 @@
+{
+  "name": "rongcloud/php-sdk",
+  "description": "Rong Cloud Server SDK in PHP.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "CornyK",
+      "email": "corneliuskahn@outlook.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
